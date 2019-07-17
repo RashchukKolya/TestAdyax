@@ -1,0 +1,105 @@
+.main {
+    display: flex;
+    width: 980px;
+    margin-top: 18px;
+    padding-bottom: 32px;
+    border-bottom: 1px solid #ebebeb;
+}
+
+.img {
+    width: 131px;
+    height: 131px;
+    border-radius: 10px;
+    box-shadow: 0 11px 20px 0 rgba(0, 0, 0, 0.1);
+    margin-right: 38px;
+    margin-top: 20px;
+    transition-duration: 300ms;
+}
+
+.img:hover, .trash:hover, .button:hover {
+    opacity: 0.8;
+    transition-duration: 300ms;
+}
+
+.title {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 2.6;
+    margin: 0;
+}
+
+.text {
+    width: 402px;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.56;
+    color: #7d7d7d;
+    margin: 0 0 55px;
+}
+
+.select {
+    color: #7d7d7d;
+    font-size: 14px;
+    font-family: 'Work Sans', sans-serif;
+    line-height: 1.64;
+    width: 242px;
+    text-transform: uppercase;
+    padding: 14px 0 14px 20px ;
+    margin: 0;
+    outline: 0;
+    border-radius: 2px;
+}
+
+.div_price {
+    display: flex;
+}
+
+.quantity {
+    display: flex;
+    align-items: center;
+    margin: 0 44px 0 111px;
+}
+
+.button {
+    background-color: #fff;
+    border: 1px solid #dcdcdc;
+    border-radius: 2px;
+    width: 39px;
+    height: 39px;
+    position: relative;
+    outline: none;
+    cursor: pointer;
+}
+
+.button > img {
+    width: 15px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.number {
+    margin: 0 25px;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 20px;
+    color: #7d7d7d;
+}
+
+.total_price {
+    margin-top: 30px;
+    text-align: right;
+}
+
+.trash {
+    margin-bottom: 5px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.price {
+    font-family: 'Avalon-Bold';
+    font-size: 20px;
+    line-height: 2;
+}

@@ -1,0 +1,43 @@
+.main {
+    background-color: #fff;
+    padding:53px 0 100px;
+}
+
+.logo {
+    display: block;
+    margin: 0 auto 19px;
+}
+
+.logo_text {
+    text-transform: uppercase;
+    font-size: 12px;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: bold;
+    letter-spacing: 5.6px;
+    text-align: center;
+    margin-bottom: 65px;
+}
+
+.title, .yellow {
+    text-align: center;
+    font-family: 'Avalon-Bold';
+    font-size: 60px;
+    line-height: 1.12;
+    letter-spacing: 0.79px;
+    margin-bottom: 46px;
+}
+
+.yellow {
+    color: #fedd23;
+}
+
+.text {
+    display: block;
+    width: 770px;
+    font-size: 24px;
+    line-height: 1.79;
+    margin: auto;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 600;
+    text-align: center;
+}

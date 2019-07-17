@@ -1,0 +1,24 @@
+.main {
+    background: linear-gradient(#fedd23, #fedd23) no-repeat;
+    background-size: 100% 90%;
+    background-position: 100% 95%;
+    padding-bottom: 73px;
+    margin-bottom: 73px;
+}
+
+.wrapper {
+    margin-left: 9%;
+    background-color: #fff;
+    box-shadow: 0 25px 54px 0 rgba(0, 0, 0, 0.11);
+    padding: 46px 52px ;
+}
+
+.total {
+    margin: 46px 0 0 0;
+    width: 980px;
+    text-align: right;
+    font-size: 35px;
+    font-family: 'Avalon-Bold';
+    line-height: 1.14;
+    
+}
