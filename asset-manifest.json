@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/TestAdyax/static/css/main.01750455.chunk.css",
+    "main.js": "/TestAdyax/static/js/main.e9bb3fe3.chunk.js",
+    "main.js.map": "/TestAdyax/static/js/main.e9bb3fe3.chunk.js.map",
+    "runtime~main.js": "/TestAdyax/static/js/runtime~main.8e1b535a.js",
+    "runtime~main.js.map": "/TestAdyax/static/js/runtime~main.8e1b535a.js.map",
+    "static/js/2.062c1c39.chunk.js": "/TestAdyax/static/js/2.062c1c39.chunk.js",
+    "static/js/2.062c1c39.chunk.js.map": "/TestAdyax/static/js/2.062c1c39.chunk.js.map",
+    "index.html": "/TestAdyax/index.html",
+    "precache-manifest.578c876f957ae652b64898613ab2bc89.js": "/TestAdyax/precache-manifest.578c876f957ae652b64898613ab2bc89.js",
+    "service-worker.js": "/TestAdyax/service-worker.js",
+    "static/css/main.01750455.chunk.css.map": "/TestAdyax/static/css/main.01750455.chunk.css.map",
+    "static/media/index.css": "/TestAdyax/static/media/Avalon_Bold.659063c8.ttf",
+    "static/media/Footer.module.css": "/TestAdyax/static/media/bitmap.d04c5ee6.png"
+  }
+}
